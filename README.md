@@ -4,6 +4,8 @@ Welcome to my Github !
 I'm Arnon Suksiri. You can call me "Non" which is my nickname. I'm a developer from **Thailand**.
 I'm a new graduate who is motivated and always eager to learn new things. I love to improve myself to be something better than what I am :wink:
 
+- :pushpin: I’m currently working on **Coding**
+- :pushpin: I’m currently learning **Competitive Programming**
 
 ## Things I code with
 
@@ -13,7 +15,7 @@ I'm a new graduate who is motivated and always eager to learn new things. I love
 
 
 ## About my repositories
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onemoretwo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onemoretwo&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Where to find me
